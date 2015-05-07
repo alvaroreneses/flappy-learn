@@ -6,7 +6,7 @@ The goal of this project is being able to play to an online version of the popul
 This project was originally developed by [Álvaro Reneses](http://alvaroreneses.com/) for his Intelligent Systems course's final project, within one week. Due to this time limitations, its working is not optimal.
 
 # Video
-A video of the program running can be watched in the [official post](http://alvaroreneses.com/blog/flappy-learn/)
+A video of the program running can be watched in the [official post](http://alvaroreneses.com/blog/flappy-learn/).
 
 # Report
 The complete project's report can be downloaded from [the following address](http://alvaroreneses.com/blog/flappy-learn/): 
@@ -19,5 +19,5 @@ It includes:
 - Results and conclusions
 - Mathematical model
 
-# Author
+# About the author
 - [Personal web site](http://alvaroreneses.com/): http://alvaroreneses.com/blog/flappy-learn/
